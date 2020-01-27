@@ -53,14 +53,14 @@ empty_set = set()
 
 
 even = set(range(0, 40, 2))
-print(sorted(even))
+print((even))
 squares_tuples = (4,6,9,16,25)
 squares = set(squares_tuples)
-print(sorted(squares_tuples))
+print((squares_tuples))
 
 print("Even minus squares")
-print(sorted(even.difference(squares)))
-print(sorted(even - squares))
+print((even.difference(squares)))
+print((even - squares))
 
 print("Sqaures minus even")
 print(squares.difference(even))
@@ -68,10 +68,19 @@ print(squares - even)
 
 print("*" * 40)
 
-print(sorted(even))
+# print(sorted(even))
+# print(squares)
+# even.difference_update(squares)
+# print(sorted(even))
+
+squares.discard(4)
+squares.remove(16)
+squares.discard(8)
 print(squares)
-even.difference_update(squares)
-print(sorted(even))
+if 8 in squares:
+    squares.remove(8)
+
+
 
 
 
