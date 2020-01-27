@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3db5ebbb-e65c-4b8c-a3ce-d6221286b6b1" name="Default Changelist" comment="" />
+    <list default="true" id="c8d63d2e-d8b1-4481-b3d5-0133f9ac673f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sets2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mc-Sets-Python.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sets.py" beforeDir="false" afterPath="$PROJECT_DIR$/sets.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,25 +18,88 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
-  <component name="ProjectId" id="1WxGBhHVA0MiLit2jDJt5CKNmRE" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WxHXabOhk6dgAiy1uhuTVQjvgp" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RunManager">
+    <configuration name="sets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sets2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sets" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3db5ebbb-e65c-4b8c-a3ce-d6221286b6b1" name="Default Changelist" comment="" />
-      <created>1580083698243</created>
+      <changelist id="c8d63d2e-d8b1-4481-b3d5-0133f9ac673f" name="Default Changelist" comment="" />
+      <created>1580084365173</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1580083698243</updated>
+      <updated>1580084365173</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="727" height="277" key="GridCell.Tab.0.bottom" timestamp="1580085148937">
+      <screen x="49" y="23" width="1631" height="1027" />
+    </state>
+    <state width="727" height="277" key="GridCell.Tab.0.bottom/49.23.1631.1027@49.23.1631.1027" timestamp="1580085148937" />
+    <state width="727" height="277" key="GridCell.Tab.0.center" timestamp="1580085148936">
+      <screen x="49" y="23" width="1631" height="1027" />
+    </state>
+    <state width="727" height="277" key="GridCell.Tab.0.center/49.23.1631.1027@49.23.1631.1027" timestamp="1580085148936" />
+    <state width="727" height="277" key="GridCell.Tab.0.left" timestamp="1580085148935">
+      <screen x="49" y="23" width="1631" height="1027" />
+    </state>
+    <state width="727" height="277" key="GridCell.Tab.0.left/49.23.1631.1027@49.23.1631.1027" timestamp="1580085148935" />
+    <state width="727" height="277" key="GridCell.Tab.0.right" timestamp="1580085148936">
+      <screen x="49" y="23" width="1631" height="1027" />
+    </state>
+    <state width="727" height="277" key="GridCell.Tab.0.right/49.23.1631.1027@49.23.1631.1027" timestamp="1580085148936" />
   </component>
 </project>
